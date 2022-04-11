@@ -19,5 +19,5 @@ elif b=="/":
 elif b=="%":
     print(a%c)
 else:
-    print("wrong")
+    print("wrong input")
     
